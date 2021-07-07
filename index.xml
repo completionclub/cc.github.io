@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Completion Club</title>
-    <link>http://completionclub.github.io/</link>
-    <description>Recent content on Completion Club</description>
+    <title>Massively</title>
+    <link>https://completionclub.github.io/</link>
+    <description>Recent content on Massively</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://completionclub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://completionclub.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main post most recent</title>
-      <link>http://completionclub.github.io/post/what-is-slugslug-is-title-of-post-page/</link>
+      <link>https://completionclub.github.io/post/what-is-slugslug-is-title-of-post-page/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://completionclub.github.io/post/what-is-slugslug-is-title-of-post-page/</guid>
-      <description></description>
+      <guid>https://completionclub.github.io/post/what-is-slugslug-is-title-of-post-page/</guid>
+      <description>   </description>
     </item>
     
     <item>
       <title>episode 0 example post</title>
-      <link>http://completionclub.github.io/post/post/</link>
+      <link>https://completionclub.github.io/post/post/</link>
       <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://completionclub.github.io/post/post/</guid>
+      <guid>https://completionclub.github.io/post/post/</guid>
       <description>put a link in here like this
 of like this https://www.youtube.com/watch?v=iiApsp1RfK4
 or however it takes it, idk</description>
@@ -29,11 +29,11 @@ or however it takes it, idk</description>
     
     <item>
       <title>Why can i not send contact email?</title>
-      <link>http://completionclub.github.io/post/sheeeet/</link>
+      <link>https://completionclub.github.io/post/sheeeet/</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://completionclub.github.io/post/sheeeet/</guid>
-      <description></description>
+      <guid>https://completionclub.github.io/post/sheeeet/</guid>
+      <description>   </description>
     </item>
     
   </channel>
